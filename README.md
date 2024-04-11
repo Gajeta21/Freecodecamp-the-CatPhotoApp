@@ -16,4 +16,4 @@ On this small page we learn:
 
 6. Create radio buttons and create multiple selection options.
 
- 7.Put id and values ​​to the buttons and forms we created.
+7.Put id and values ​​to the buttons and forms we created.
